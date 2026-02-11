@@ -1,5 +1,4 @@
-Here you go — clean, minimal, professional.
-Just paste this directly into README.md on GitHub 👇
+
 
 # Docker + Nginx Static Website
 
